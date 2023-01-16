@@ -1,0 +1,30 @@
+.header{
+    border: 3px solid black;
+    box-shadow: 0 4px 8px 0 #8596B3, 0 6px 20px 0 #8596B3;
+}
+
+.card-body{
+    border: 3px solid black;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 16px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
+
+.card-img-top{
+    border: 3px solid black;
+    padding: 4px 4px 4px 4px;
+    box-shadow: 4px 4px lightcoral;
+    background-color: white;
+    margin-bottom: 16px;
+}
+
+.card{
+    background-color: transparent;
+    border: none; 
+}
+
+p.card-text{
+    padding-top: 16px;
+}

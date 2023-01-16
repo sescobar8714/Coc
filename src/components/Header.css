@@ -1,0 +1,35 @@
+.navbar{
+    background-image: url(../media/cityofchicago.jpg);
+    background-size:cover ; 
+background-attachment: fixed;
+    border: 3px solid black;
+}
+
+h1{
+    color: black; 
+    text-shadow: 2px 2px red;
+    font-family: 'Smooch', cursive;
+    font-size: 72px;
+}
+
+.h5-header{
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    color:black;
+}
+
+.nav-link {
+    color: black;
+    text-shadow: 2px 2px red;
+}
+
+.navbar-nav{
+    flex-direction: row;
+ 
+}
+
+.navbar-nav > li {
+    margin-left:30px;
+    margin-right:30px;
+
+}
