@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coc/static/css/main.355d537f.css",
-    "main.js": "/Coc/static/js/main.ecfe571c.js",
+    "main.js": "/Coc/static/js/main.403374e3.js",
     "static/js/787.bdbb4dc1.chunk.js": "/Coc/static/js/787.bdbb4dc1.chunk.js",
     "static/media/23GAYFLOWER1-video1200x675.jpg": "/Coc/static/media/23GAYFLOWER1-video1200x675.a0e1547fa2d4c9e7d988.jpg",
     "static/media/photo-1564089957880-517edea1afc5.jpg": "/Coc/static/media/photo-1564089957880-517edea1afc5.0e9bbe9014fa1c5c971d.jpg",
@@ -11,11 +11,11 @@
     "static/media/380-Outrage-Gallery-1-380x236.jpg": "/Coc/static/media/380-Outrage-Gallery-1-380x236.8138577ac68f6ed9d386.jpg",
     "index.html": "/Coc/index.html",
     "main.355d537f.css.map": "/Coc/static/css/main.355d537f.css.map",
-    "main.ecfe571c.js.map": "/Coc/static/js/main.ecfe571c.js.map",
+    "main.403374e3.js.map": "/Coc/static/js/main.403374e3.js.map",
     "787.bdbb4dc1.chunk.js.map": "/Coc/static/js/787.bdbb4dc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.355d537f.css",
-    "static/js/main.ecfe571c.js"
+    "static/js/main.403374e3.js"
   ]
 }
