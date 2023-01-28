@@ -8,6 +8,10 @@ function Footer() {
                     <div class="col-md-6 mt-md-0 mt-3">
                         <h5 className="text-uppercase">Carnival of Charters </h5>
                         <p>Check us out at our the social networks</p>
+                        <p> Hours of Operations:</p>
+                        <p> June - September</p>
+                        <p>Monday - Friday : 9am - 7pm</p>
+                        <p>Weekend Hours: 9am - 1pm</p>
                     </div>
                     <hr className="clearfix w-100 d-md-none pb-3"></hr>
 
