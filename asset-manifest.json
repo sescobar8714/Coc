@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.554f1b31.css",
+    "main.js": "/static/js/main.4502994e.js",
+    "static/js/787.bdbb4dc1.chunk.js": "/static/js/787.bdbb4dc1.chunk.js",
+    "static/media/23GAYFLOWER1-video1200x675.jpg": "/static/media/23GAYFLOWER1-video1200x675.a0e1547fa2d4c9e7d988.jpg",
+    "static/media/photo-1564089957880-517edea1afc5.jpg": "/static/media/photo-1564089957880-517edea1afc5.0e9bbe9014fa1c5c971d.jpg",
+    "static/media/gay-couple-road-trip-1200x675-1.jpg": "/static/media/gay-couple-road-trip-1200x675-1.65ee6f31344c5a611d4c.jpg",
+    "static/media/14atlantis-cruise-video1200x675.jpg": "/static/media/14atlantis-cruise-video1200x675.3fb7d867874000ff429a.jpg",
+    "static/media/cityofchicago.jpg": "/static/media/cityofchicago.b2afbe22a5a045fcf1d9.jpg",
+    "static/media/380-Outrage-Gallery-1-380x236.jpg": "/static/media/380-Outrage-Gallery-1-380x236.8138577ac68f6ed9d386.jpg",
+    "index.html": "/index.html",
+    "main.554f1b31.css.map": "/static/css/main.554f1b31.css.map",
+    "main.4502994e.js.map": "/static/js/main.4502994e.js.map",
+    "787.bdbb4dc1.chunk.js.map": "/static/js/787.bdbb4dc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554f1b31.css",
+    "static/js/main.4502994e.js"
+  ]
+}
